@@ -5,4 +5,5 @@ name = "samizai"
 Version = "Rstudio in writing"
 
 print(name)
-print("These lines have been written in Rstudio")
+print("These lines has been written in Rstudio")
+print("This is a new try")
